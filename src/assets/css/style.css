@@ -1,0 +1,14 @@
+:local(.bpMainDiv) {
+  margin: 40px;
+}
+
+:local(.bpDiv) {
+  margin: 20px;
+  padding-left: 10px;
+  padding-right: 10px;
+  /*  border: 5px dotted #A9A9A9; */
+}
+
+:local(.bpImg) {
+  height: 64px;
+}
