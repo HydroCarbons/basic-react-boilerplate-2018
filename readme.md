@@ -50,4 +50,4 @@ I made this boilerplate to quickly get and up running with React programming wit
 
 
 ## License
-This project is licensed under the MIT license, Copyright (c) 2017 HydroCarbons. For more information see LICENSE.md.
+This project is licensed under the MIT license, Copyright (c) 2018 HydroCarbons. For more information see LICENSE.md.
