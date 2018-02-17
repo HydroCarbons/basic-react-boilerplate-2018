@@ -1,6 +1,8 @@
 ## Boilerplate
- React + React-Bootrstrap + Babel + WebPack
- 
+React + React-Bootrstrap + Babel + WebPack
+
+I made this boilerplate to quickly get and up running with React programming with a dev and prod build and traspilation pipeline. You can also use react-bootstrap https://react-bootstrap.github.io/ components.
+
 ## Development Environment
 
 1. Install all node mudules
@@ -48,4 +50,4 @@
 
 
 ## License
-This project is licensed under the MIT license, Copyright (c) 2017 HydroCarbons. 
+This project is licensed under the MIT license, Copyright (c) 2017 HydroCarbons. For more information see LICENSE.md.
