@@ -20,7 +20,7 @@
 
 ### <a href="http://localhost:8081" target="_blank">Go to App</a>
 
-![Alt text](https://github.com/HydroCarbons/basic-react-boilerplate/blob/master/app.png)
+![Alt text](https://github.com/HydroCarbons/basic-react-boilerplate/blob/master/docs/app.png)
 
 ## Production Environment
 
