@@ -16,8 +16,8 @@
 3. App running in your broswer
 ```
  http://localhost:8081
+ <a href="http://localhost:8081" target="_blank">Go to App</a>
 ```
-<a href="http://localhost:8081" target="_blank">Go to App</a>
 
 ![Alt text](https://github.com/HydroCarbons/basic-react-boilerplate/blob/master/app.png)
 
