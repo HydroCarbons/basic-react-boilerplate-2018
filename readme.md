@@ -41,3 +41,7 @@
 3. <guid>.png << Application Icon
 4. index.html 
 ```
+
+## Build Pipeline
+
+![Build Pipeline](https://github.com/HydroCarbons/basic-react-boilerplate-2018/blob/master/docs/workflow.png)
