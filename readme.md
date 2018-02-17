@@ -15,5 +15,5 @@
 
 3. App running in your broswer
 ```
-  [Localhost:8081](http://localhost:8081)
+  [8081 port on localhost](http://localhost:8081)
 ```
