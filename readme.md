@@ -14,6 +14,9 @@
 ```
 
 3. App running in your broswer
-  
-  [8081 port on localhost](http://localhost:8081)
+```
+ http://localhost:8081
+```
+- [8081 port on localhost](http://localhost:8081)
 
+![Alt text](https://github.com/HydroCarbons/basic-react-boilerplate/blob/master/app.png)
