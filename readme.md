@@ -45,3 +45,7 @@
 ## Build Pipeline
 
 ![Build Pipeline](https://github.com/HydroCarbons/basic-react-boilerplate-2018/blob/master/docs/workflow.png)
+
+
+## License
+This project is licensed under the MIT license, Copyright (c) 2017 HydroCarbons. 
