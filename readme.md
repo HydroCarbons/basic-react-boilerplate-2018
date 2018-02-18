@@ -27,10 +27,6 @@ I made this boilerplate to quickly get and up running with React programming wit
  http://localhost:8081
 ```
 
-### <a href="http://localhost:8081" target="_blank">Go to App</a>
-
-![Alt text](https://github.com/HydroCarbons/basic-react-boilerplate/blob/master/docs/app.png)
-
 ## Production Environment
 
 1. Create build
@@ -45,6 +41,11 @@ I made this boilerplate to quickly get and up running with React programming wit
 3. <guid>.png << Application Icon
 4. index.html 
 ```
+## App
+
+### <a href="http://localhost:8081" target="_blank">Go to App</a>
+
+![Alt text](https://github.com/HydroCarbons/basic-react-boilerplate/blob/master/docs/app.png)
 
 ## Build Pipeline
 
